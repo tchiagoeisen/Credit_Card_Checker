@@ -20,6 +20,5 @@ Sum up all the digits in the credit card number.
 If the sum modulo 10 is 0 (if the sum divided by 10 has a remainder of 0) then the number is valid, otherwise, it’s invalid.
 
 ## Credits
-This was a project from CodeCademy. I used the the terminal and console.log() statements to check the functions.
-
+This was a project from CodeCademy.
 
